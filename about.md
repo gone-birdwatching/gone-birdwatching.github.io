@@ -2,6 +2,7 @@
 layout: page
 title: "About"
 permalink: /about/
+navbar_title: About
 ---
 
 ### Welcome to my blog!
