@@ -3,6 +3,7 @@ layout: page
 title: Home
 navbar_title: Home
 position: 1
+paginate: true
 ---
 
 <style>
@@ -24,13 +25,11 @@ position: 1
   border-bottom: 1px solid #eaeaea;
 }
 
-/* Left text block takes up remaining space */
 .post-card-content {
   flex: 1;
   min-width: 0;
 }
 
-/* Post title styling */
 .post-card .post-title {
   font-size: 1.5rem;
   line-height: 1.3;
@@ -38,14 +37,12 @@ position: 1
   margin-bottom: 0.5rem;
 }
 
-/* Post date styling */
 .post-card .post-date {
   font-size: 0.9rem;
   color: #666;
   display: block;
 }
 
-/* Right image container */
 .post-card-image {
   flex-shrink: 0;
   width: 260px;
@@ -60,14 +57,41 @@ position: 1
   display: block;
 }
 
-/* Mobile Responsiveness: Stack image above/below on narrow screens */
+/* Pagination Links Styling */
+.pagination {
+  text-align: center;
+  margin: 3rem 0;
+  font-size: 1rem;
+}
+
+.pagination a, .pagination span {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0 0.25rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #333;
+}
+
+.pagination .current {
+  background: #333;
+  color: #fff;
+  border-color: #333;
+}
+
+.pagination .inactive {
+  color: #ccc;
+  border-color: #eee;
+  pointer-events: none;
+}
+
 @media (max-width: 700px) {
   .post-card {
     flex-direction: column-reverse;
     align-items: flex-start;
     gap: 1rem;
   }
-
   .post-card-image {
     width: 100%;
     height: 200px;
@@ -76,10 +100,10 @@ position: 1
 </style>
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <article class="post-card">
       
-      <!-- Left Column: Title and Date only -->
+      <!-- Left Column: Title and Date -->
       <div class="post-card-content">
         <h2 class="post-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -101,4 +125,23 @@ position: 1
 
     </article>
   {% endfor %}
+
+  <!-- Pagination Links at the Bottom -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">&laquo; Prev</a>
+    {% else %}
+      <span class="inactive">&laquo; Prev</span>
+    {% endif %}
+
+    <span class="current">
+      Page {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next &raquo;</a>
+    {% else %}
+      <span class="inactive">Next &raquo;</span>
+    {% endif %}
+  </div>
 </div>
