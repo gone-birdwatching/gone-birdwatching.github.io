@@ -1,0 +1,25 @@
+{% comment %}
+  Usage: 
+  {% include image-row.html 
+     images="img1.jpg, img2.jpg, img3.jpg" 
+     captions="First caption, Second caption, Third caption" 
+     alt="Alt text 1, Alt text 2, Alt text 3" 
+  %}
+{% endcomment %}
+
+{% assign img_list = include.images | split: ", " %}
+{% assign cap_list = include.captions | split: ", " %}
+{% assign alt_list = include.alt | split: ", " %}
+
+<div class="image-row" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
+  {% for img in img_list %}
+    <figure style="flex: 1 1 0px; min-width: 200px; margin: 0; text-align: center;">
+      <img src="{{ img | relative_url }}" alt="{{ alt_list[forloop.index0] | strip }}" style="width: 100%; height: auto; border-radius: 4px; object-fit: cover;" />
+      {% if cap_list[forloop.index0] %}
+        <figcaption style="font-size: 0.85rem; color: #666; margin-top: 8px; line-height: 1.4;">
+          {{ cap_list[forloop.index0] | strip }}
+        </figcaption>
+      {% endif %}
+    </figure>
+  {% endfor %}
+</div>
