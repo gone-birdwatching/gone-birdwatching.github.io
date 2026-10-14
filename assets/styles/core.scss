@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://googleapis.com');
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&display=swap");
 
 @mixin scut-link-unstyled {
   text-decoration: none;
@@ -69,5 +69,5 @@ figcaption {
 
 .navbar {
   display: flex;
-  gap: 30px; /* Increase or decrease this number to change the space between links */
+  gap: 50px;
 }
