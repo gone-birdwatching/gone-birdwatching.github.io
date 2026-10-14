@@ -14,4 +14,22 @@
   }
 }
 
+@mixin scut-list-punctuated($divider: ", ", $inline: true) {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  & > li {
+    @if $inline {
+      display: inline;
+    } @else {
+      display: block;
+    }
+
+    &:not(:last-child):after {
+      content: $divider;
+    }
+  }
+}
+
 @import "kagami";
