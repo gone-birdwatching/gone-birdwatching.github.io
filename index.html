@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="home">
+  <!-- Elegant Native Header Block -->
+  <header class="site-header">
+    <div class="site-title-container">
+      <h1 class="site-title">
+        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      </h1>
+      {% if site.description %}
+        <p class="site-description">{{ site.description }}</p>
+      {% endif %}
+    </div>
+
+    <nav class="site-nav">
+      <ul>
+        {% for link in site.navigation %}
+          <li>
+            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Blog Feed Layer Linked Directly to Kagami CSS hooks -->
+  <div class="posts">
+    {% for post in site.posts %}
+      <article class="post">
+        <h2 class="post-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%B %d, %Y" }}
+        </time>
+        <div class="post-excerpt">
+          {{ post.excerpt }}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
