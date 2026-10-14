@@ -1,4 +1,17 @@
 ---
 ---
 
+@mixin scut-link-unstyled {
+  text-decoration: none;
+  color: inherit;
+}
+
+@mixin scut-clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
 @import "kagami";
