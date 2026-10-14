@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<article class="post" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting" >
+{% include site-nav.html %}
+{% include header.html %}
 
-  {% include site-nav.html %}
+<article class="post" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting" >
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
