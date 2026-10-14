@@ -2,6 +2,7 @@
 layout: post
 title: "The uncommon birds of Schloss Rheydt"
 date: 2026-10-12
+image: /images/firecrest.jpg
 ---
 
 Usually on this blog, I discuss birdwatching around Edinburgh, but this time is a rare exception. Here we travel to West Germany, where I met Ilan and explored the beautiful Schloss Rheydt. With my visit to Germany came the perfect opportunity to discuss some birds that are prevalent overseas but uncommon or absent from the UK.
