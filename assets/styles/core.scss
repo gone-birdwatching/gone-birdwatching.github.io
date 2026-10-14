@@ -41,3 +41,10 @@
 }
 
 @import "kagami";
+
+figcaption {
+  font-size: 0.85rem;  /* Adjust this to make it smaller/larger */
+  opacity: 0.8;        /* Optional: gives it a slightly softer look */
+  text-align: center;  /* Centers the caption under the image */
+  margin-top: 0.5rem;
+}
