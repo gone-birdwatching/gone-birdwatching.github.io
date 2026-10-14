@@ -1,0 +1,6 @@
+remote_theme: kamikat/jekyll-theme-kagami
+title: "Gone Birdwatching"
+description: "Welcome to my static website!"
+url: "https://gone-birdwatching.github.io"
+baseurl: ""
+permalink: /:year/:month/:day/:title/
