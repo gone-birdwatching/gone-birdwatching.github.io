@@ -66,3 +66,8 @@ figcaption {
   font-weight: 600;     
   letter-spacing: normal;
 }
+
+.navbar {
+  display: flex;
+  gap: 30px; /* Increase or decrease this number to change the space between links */
+}
