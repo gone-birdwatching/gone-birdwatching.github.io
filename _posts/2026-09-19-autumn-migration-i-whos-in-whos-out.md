@@ -2,6 +2,7 @@
 layout: post
 title: "Autumn Migration: who's in, who's out?"
 date: 2026-09-19
+image: /images/gb-swift.jpg
 ---
 
 Migration is one of nature’s most astonishing phenomena. And right now, we are right in the middle of it. Without us realising, thousands of birds are on the move, making extraordinary cross-continental journeys. To put it in perspective, the pied flycatcher weighs less than two £1 coins, and travels a ~5000 km migration route! (That’s a lot of parkruns.)
