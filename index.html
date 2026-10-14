@@ -2,17 +2,16 @@
 layout: default
 ---
 
-<header class="blog-header" style="margin-bottom: 4em; padding-bottom: 2em; border-bottom: 1px solid #eee;">
-  <h1 style="font-size: 2.5em; margin-bottom: 0.2em; font-family: 'Bitter', serif;">{{ site.title }}</h1>
-  <p style="color: #666; font-style: italic; font-size: 1.1em;">{{ site.description }}</p>
-</header>
-
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post" style="margin-bottom: 3.5em;">
-      <h2 style="margin-bottom: 0.3em;"><a href="{{ post.url }}" style="text-decoration: none; color: #222;">{{ post.title }}</a></h2>
-      <time style="color: #999; font-size: 0.9em; display: block; margin-bottom: 1em;">{{ post.date | date: "%B %d, %Y" }}</time>
-      <div class="excerpt" style="line-height: 1.6;">
+    <article class="post">
+      <h2 class="post-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%B %d, %Y" }}
+      </time>
+      <div class="post-excerpt">
         {{ post.excerpt }}
       </div>
     </article>
