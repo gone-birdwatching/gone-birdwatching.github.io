@@ -2,36 +2,30 @@
 layout: page
 ---
 
-<div class="home">
-  <!-- Header with Title Removed, Nav Bar Kept -->
-  <header class="site-header" style="padding: 1.5rem 0; margin-bottom: 2.5rem; border-bottom: 1px solid #f0f0f0; display: flex; align-items: center; justify-content: flex-end; flex-wrap: wrap;">
-    
-    <!-- Navigation Bar (Kept Intact) -->
-    <nav class="site-nav" style="text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.9rem;">
-      <ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 1.5rem;">
-        {% for link in site.navigation %}
-          <li>
-            <a href="{{ link.url | relative_url }}" style="text-decoration: none; color: #444; font-weight: 600; transition: color 0.2s ease;" onmouseover="this.style.color='#000'" onmouseout="this.style.color='#444'">{{ link.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
+<header class="site-header">
+  <nav class="site-nav">
+    <ul>
+      {% for link in site.navigation %}
+        <li>
+          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
 
-  <!-- Main Blog Feed Layer -->
-  <div class="posts">
-    {% for post in site.posts %}
-      <article class="post" style="margin-bottom: 4rem;">
-        <h2 class="post-title" style="font-size: 1.5rem; margin-bottom: 0.5rem;">
-          <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">{{ post.title }}</a>
-        </h2>
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}" style="font-size: 0.85rem; color: #888; display: block; margin-bottom: 1rem;">
-          {{ post.date | date: "%B %d, %Y" }}
-        </time>
-        <div class="post-excerpt" style="line-height: 1.6; color: #333;">
-          {{ post.excerpt }}
-        </div>
-      </article>
-    {% endfor %}
-  </div>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+      <h2 class="post-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%B %d, %Y" }}
+      </time>
+      <div class="post-excerpt">
+        {{ post.excerpt }}
+      </div>
+    </article>
+  {% endfor %}
 </div>
