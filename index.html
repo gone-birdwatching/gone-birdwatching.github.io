@@ -1,20 +1,12 @@
 ---
 layout: page
-title: Home
 ---
 
-<div class="home-container" style="max-width: 800px; margin: 0 auto; padding: 0 1.5rem;">
-  <!-- Native Header Block -->
-  <header class="site-header" style="padding: 2.5rem 0; margin-bottom: 3.5rem; border-bottom: 1px solid #f0f0f0; display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
-    <div class="site-title-container">
-      <h1 style="margin: 0; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.02em;">
-        <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">{{ site.title }}</a>
-      </h1>
-      {% if site.description %}
-        <p style="margin: 0.3rem 0 0 0; font-size: 1rem; color: #777; font-style: italic;">{{ site.description }}</p>
-      {% endif %}
-    </div>
-
+<div class="home">
+  <!-- Header with Title Removed, Nav Bar Kept -->
+  <header class="site-header" style="padding: 1.5rem 0; margin-bottom: 2.5rem; border-bottom: 1px solid #f0f0f0; display: flex; align-items: center; justify-content: flex-end; flex-wrap: wrap;">
+    
+    <!-- Navigation Bar (Kept Intact) -->
     <nav class="site-nav" style="text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.9rem;">
       <ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 1.5rem;">
         {% for link in site.navigation %}
@@ -26,8 +18,8 @@ title: Home
     </nav>
   </header>
 
-  <!-- Main Blog Feed Layer Linked Directly to Kagami CSS hooks -->
-  <main class="posts">
+  <!-- Main Blog Feed Layer -->
+  <div class="posts">
     {% for post in site.posts %}
       <article class="post" style="margin-bottom: 4rem;">
         <h2 class="post-title" style="font-size: 1.5rem; margin-bottom: 0.5rem;">
@@ -41,5 +33,5 @@ title: Home
         </div>
       </article>
     {% endfor %}
-  </main>
+  </div>
 </div>
