@@ -6,11 +6,11 @@ position: 1
 ---
 
 <style>
-/* Expanded container width (increased from 720px to 900px) */
+/* Expanded main container width (increased to 1100px for a spacious feel) */
 .posts {
-  max-width: 900px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 1.5rem;
 }
 
 /* Flexbox container for each post card */
@@ -18,38 +18,54 @@ position: 1
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2.5rem;
-  margin-bottom: 3.5rem;
-  padding-bottom: 2.5rem;
+  gap: 3rem;
+  margin-bottom: 4rem;
+  padding-bottom: 3rem;
   border-bottom: 1px solid #eaeaea;
 }
 
-/* Left text block takes up remaining space */
+/* Left text block takes up the majority of the space */
 .post-card-content {
   flex: 1;
+  min-width: 0; /* Prevents text elements from breaking flex constraints */
 }
 
-/* Right image container (increased from 180px to 240px wide) */
+/* Post titles styled to stay spacious and clean */
+.post-card .post-title {
+  font-size: 1.6rem;
+  line-height: 1.3;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  white-space: nowrap;          /* Keeps title on a single line */
+  overflow: hidden;             /* Truncates cleanly if screen is too small */
+  text-overflow: ellipsis;      /* Adds ... if a title is exceptionally long */
+}
+
+/* Right image container */
 .post-card-image {
   flex-shrink: 0;
-  width: 240px;
-  height: 150px;
+  width: 280px;
+  height: 170px;
 }
 
 .post-card-image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 8px;
   display: block;
 }
 
 /* Mobile Responsiveness: Stack image above/below on narrow screens */
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   .post-card {
     flex-direction: column-reverse;
     align-items: flex-start;
-    gap: 1rem;
+    gap: 1.5rem;
+  }
+
+  .post-card .post-title {
+    white-space: normal; /* Allows wrapping on smaller mobile devices */
   }
 
   .post-card-image {
@@ -65,11 +81,11 @@ position: 1
       
       <!-- Left Column: Title, Date, Excerpt -->
       <div class="post-card-content">
-        <h2 class="post-title" style="margin-top: 0;">
+        <h2 class="post-title">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
 
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}" style="display: block; margin-bottom: 0.75rem;">
           {{ post.date | date: "%B %d, %Y" }}
         </time>
 
