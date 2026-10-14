@@ -3,43 +3,13 @@ layout: default
 title: Home
 ---
 
-<div class="home-container" style="max-width: 800px; margin: 0 auto; padding: 0 1.5rem;">
-  <!-- Native Header Block -->
-  <header class="site-header" style="padding: 2.5rem 0; margin-bottom: 3.5rem; border-bottom: 1px solid #f0f0f0; display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
-    <div class="site-title-container">
-      <h1 style="margin: 0; font-size: 2.2rem; font-weight: 700; letter-spacing: -0.02em;">
-        <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">{{ site.title }}</a>
-      </h1>
-      {% if site.description %}
-        <p style="margin: 0.3rem 0 0 0; font-size: 1rem; color: #777; font-style: italic;">{{ site.description }}</p>
-      {% endif %}
-    </div>
+## Recent Posts
 
-    <nav class="site-nav" style="text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.9rem;">
-      <ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 1.5rem;">
-        {% for link in site.navigation %}
-          <li>
-            <a href="{{ link.url | relative_url }}" style="text-decoration: none; color: #444; font-weight: 600; transition: color 0.2s ease;" onmouseover="this.style.color='#000'" onmouseout="this.style.color='#444'">{{ link.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+*{{ post.date | date: "%B %d, %Y" }}*
 
-  <!-- Main Blog Feed Layer Linked Directly to Kagami CSS hooks -->
-  <main class="posts">
-    {% for post in site.posts %}
-      <article class="post" style="margin-bottom: 4rem;">
-        <h2 class="post-title" style="font-size: 1.5rem; margin-bottom: 0.5rem;">
-          <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">{{ post.title }}</a>
-        </h2>
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}" style="font-size: 0.85rem; color: #888; display: block; margin-bottom: 1rem;">
-          {{ post.date | date: "%B %d, %Y" }}
-        </time>
-        <div class="post-excerpt" style="line-height: 1.6; color: #333;">
-          {{ post.excerpt }}
-        </div>
-      </article>
-    {% endfor %}
-  </main>
-</div>
+{{ post.excerpt }}
+
+---
+{% endfor %}
