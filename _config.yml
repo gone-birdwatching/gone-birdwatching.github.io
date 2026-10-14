@@ -1,9 +1,13 @@
-remote_theme: kamikat/jekyll-theme-kagami
-plugins:
-  - jekyll-remote-theme
-
-title: "My Brand New Blog"
-description: "Welcome to my static website!"
-url: "https://gone-birdwatching.github.io"
+title: "My Elegant Kagami Blog"
+description: "A space for quiet writing."
+url: "https://github.io" # Replace janesmith with your username!
 baseurl: ""
 permalink: /:year/:month/:day/:title/
+
+# Typography Settings for Kagami
+google_fonts: "Bitter:400,700|Source+Sans+Pro:400,600"
+
+# Navigation Layout
+navigation:
+  - title: Home
+    url: /
