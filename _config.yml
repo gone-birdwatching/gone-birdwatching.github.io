@@ -4,6 +4,6 @@ plugins:
 
 title: "My Brand New Blog"
 description: "Welcome to my static website!"
-url: "https://janesmith.github.io"
+url: "https://gone-birdwatching.github.io"
 baseurl: ""
 permalink: /:year/:month/:day/:title/
