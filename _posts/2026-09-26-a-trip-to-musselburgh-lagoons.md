@@ -2,6 +2,7 @@
 layout: post
 title: "A trip to Musselburgh lagoons"
 date: 2026-09-26
+image: /images/lapwing.jpg
 ---
 
 On Saturday, I took a day trip just outside of Edinburgh to visit one of the best birdwatching destinations in Scotland. What was really impressive about it, was that the lagoons were not always a place of beauty, in fact, the complete opposite. The artificial lagoons started off as a disposal site for ash from a nearby power station, and have since been transformed into a beautiful coastal haven. So, I thought I should probably give it a visit before the Scottish winter beats me to it!
