@@ -1,6 +1,9 @@
 remote_theme: kamikat/jekyll-theme-kagami
-title: "Gone Birdwatching"
+plugins:
+  - jekyll-remote-theme
+
+title: "My Brand New Blog"
 description: "Welcome to my static website!"
-url: "https://gone-birdwatching.github.io"
+url: "https://janesmith.github.io"
 baseurl: ""
 permalink: /:year/:month/:day/:title/
