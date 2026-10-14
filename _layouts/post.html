@@ -3,10 +3,10 @@ layout: default
 ---
 
 {% include site-nav.html %}
-{% include header.html %}
 
 <article class="post" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting" >
 
+{% include header.html %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
