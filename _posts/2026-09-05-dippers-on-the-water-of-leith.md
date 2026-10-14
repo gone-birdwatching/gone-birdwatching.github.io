@@ -5,7 +5,7 @@ date: 2026-09-05
 image: /images/gb-dipper.jpg
 ---
 
-It was only a couple of months ago that I learned that it wasn’t too tricky to spot dippers on the Water of Leith. These charismatic birds are one of my absolute favourites, particularly for their ‘bobbing’ or ‘dipping’ motion. I recently learned that they have a funny Scottish name: a bessie dooker. Turns out, a bessie is a bird, and a dooker is a diver.
+It was only a couple of months ago that I learned that it wasn’t too tricky to spot dippers on the Water of Leith. These charismatic birds are one of my absolute favourites, particularly for their ‘bobbing’ or ‘dipping’ motion. I recently learned that they have a funny Scottish name: a *bessie dooker*. Turns out, a bessie is a bird, and a dooker is a diver.
 
 The last time I had seen a dipper before these last few months was in a waterway near Lake Vyrnwy, Wales. Finding them in England is difficult, since these birds prefer freshwater, upland streams, with plenty of exposed pebbles for perching and finding food. Being so fussy makes them an indicator species for clean waters.
 
