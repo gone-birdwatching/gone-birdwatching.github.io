@@ -12,13 +12,22 @@ In this article, we discuss which species are arriving, which are leaving, and h
 ### 1. Winter visitors
 On the arrivals board to the UK, there are a host of waders, waterfowl and thrushes that make their way from Iceland and Scandinavia. Most waterfowl need to escape freezing temperatures to ensure that their watery habitat is not frozen over, and so they can continue hunting for food.
 
-In Edinburgh, one can keep an eye out for redwings and pink footed geese!
+> In Edinburgh, one can keep an eye out for redwings and pink footed geese!
 
-A redwing is relative of the blackbird and a winter visitor to the UK. 
+<figure>
+  <img src="{{ site.baseurl }}/images/2026-09-19-autumn-migration-whos-in-whos-out/redwing.jpg" alt="Redwing">
+  <figcaption>A redwing is relative of the blackbird and a winter visitor to the UK. [Image credits: Redwing by NottsExMiner, CC BY-SA 2.0 via Wikimedia Commons]</figcaption>
+</figure>
+
 ### 2. Summer migrants
 Exiting the UK are swallows, swifts and cuckoos, heading as far as South Africa. Around this time of year, you might have seen swallows gathering on telephone lines — this is likely a pre-migratory gathering! Among these birds are some impressive endurance athletes: swifts can fly more than 800km in a single day, with their journeys totalling up to 15000km!
 
-In East Lothian, a coastal area called Barns Nest has often been on the migration route, spotting many rare species including the pied flycatcher and icterine warbler.
+> In East Lothian, a coastal area called Barns Nest has often been on the migration route, spotting many rare species including the pied flycatcher and icterine warbler.
+
+<figure>
+  <img src="{{ site.baseurl }}/images/gb-swift.jpg" alt="Swift">
+  <figcaption>A swift, in flight. [Image credits: Tårnseiler (Apus apus) Common Swift by Marton Berntsen, CC BY-SA 3.0 via Wikimedia Commons]</figcaption>
+</figure>
 
 If you’re interested in spotting new birds, migration gives a great opportunity to spot species you haven’t seen before. Here’s some tips how…
 

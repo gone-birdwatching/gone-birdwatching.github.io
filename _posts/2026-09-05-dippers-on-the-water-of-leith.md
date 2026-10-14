@@ -19,3 +19,8 @@ Although they seem plump and slightly comical, they are built for survival on th
 Today I was lucky enough to see a dipper hunting for food, and probably the most impressive part was watching it emerge from the water. It is completely effortless, making hunting look like play. Entering the water with a small splash, it disappeared for a few seconds, then remerged on a nearby stone with a beak full of waterborne insects.
 
 There is something about seeing these birds bobbing on the river which always puts a smile on my face. And that nobody seems to completely understand why they dip the way they do.
+
+<figure>
+  <img src="{{ site.baseurl }}/images/2026-09-05-dippers-on-the-water-of-leith/leith-list.jpg" alt="Birdwatching list">
+  <figcaption>A short morning of birdwatching. The dipper was definitely the star of the show!</figcaption>
+</figure>
