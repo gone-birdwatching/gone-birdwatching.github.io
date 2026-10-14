@@ -14,6 +14,12 @@
   }
 }
 
+@mixin scut-list-unstyled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 @mixin scut-list-punctuated($divider: ", ", $inline: true) {
   list-style: none;
   padding: 0;
