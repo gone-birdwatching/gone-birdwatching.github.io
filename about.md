@@ -3,6 +3,7 @@ layout: page
 title: "About"
 permalink: /about/
 navbar_title: About
+position: 2
 ---
 
 ### Welcome to my blog!
