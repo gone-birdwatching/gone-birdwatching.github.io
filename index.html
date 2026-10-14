@@ -3,18 +3,6 @@ layout: page
 title: Home
 ---
 
-<!-- Navigation Bar matched to your theme's styling -->
-<nav class="site-nav" style="margin-bottom: 2rem;">
-  <ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 1.5rem;">
-    {% for link in site.navigation %}
-      <li>
-        <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</nav>
-
-<!-- Main Blog Feed -->
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
