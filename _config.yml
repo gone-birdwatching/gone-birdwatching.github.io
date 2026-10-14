@@ -1,6 +1,6 @@
 title: "Gone Birdwatching"
 description: "Birdwatching in and around Edinburgh"
-url: "https://gone-birdwatching.github.io" # Replace with your real username!
+url: "https://gone-birdwatching.github.io"
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 
