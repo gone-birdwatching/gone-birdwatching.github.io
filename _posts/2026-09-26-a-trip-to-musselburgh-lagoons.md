@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A trip to Musselburgh lagoons"
+title: "A trip to Musselburgh Lagoons"
 date: 2026-09-26
 image: /images/gb-lapwing.jpg
 ---
