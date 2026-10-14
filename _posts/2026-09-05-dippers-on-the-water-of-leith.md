@@ -9,6 +9,11 @@ It was only a couple of months ago that I learned that it wasn’t too tricky to
 
 The last time I had seen a dipper before these last few months was in a waterway near Lake Vyrnwy, Wales. Finding them in England is difficult, since these birds prefer freshwater, upland streams, with plenty of exposed pebbles for perching and finding food. Being so fussy makes them an indicator species for clean waters.
 
+<figure>
+  <img src="{{ site.baseurl }}/images/gb-dipper.jpg" alt="Dipper">
+  <figcaption>Dipper (cinclus cinclus) perching by running water. [Image credits: White Throated Dipper by Christophe Sigwald, CC BY-NC-ND via iNaturalist]</figcaption>
+</figure>
+
 Although they seem plump and slightly comical, they are built for survival on the rivers. From behind, they look like a rounder female blackbird, until a front-facing angle reveals a white bib. This clever underpainting gives them camouflage from below, while their brown feathers blend in perfectly with the water. They swim in the same way that they fly, with small wings propelling them, and have oil covered feathers that entirely waterproof them.
 
 Today I was lucky enough to see a dipper hunting for food, and probably the most impressive part was watching it emerge from the water. It is completely effortless, making hunting look like play. Entering the water with a small splash, it disappeared for a few seconds, then remerged on a nearby stone with a beak full of waterborne insects.
