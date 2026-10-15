@@ -11,7 +11,7 @@ The last time I had seen a dipper before these last few months was in a waterway
 
 <figure>
   <img src="{{ site.baseurl }}/images/gb-dipper.jpg" alt="Dipper">
-  <figcaption>Dipper (cinclus cinclus) perching by running water. [Image credits: White Throated Dipper by Christophe Sigwald, CC BY-NC-ND via iNaturalist]</figcaption>
+  <figcaption><a href="https://www.inaturalist.org/photos/9007">Dipper</a> (cinclus cinclus) perching by running water. [Image credits: White Throated Dipper by Christophe Sigwald, CC BY-NC-ND via iNaturalist]</figcaption>
 </figure>
 
 Although they seem plump and slightly comical, they are built for survival on the rivers. From behind, they look like a rounder female blackbird, until a front-facing angle reveals a white bib. This clever underpainting gives them camouflage from below, while their brown feathers blend in perfectly with the water. They swim in the same way that they fly, with small wings propelling them, and have oil covered feathers that entirely waterproof them.

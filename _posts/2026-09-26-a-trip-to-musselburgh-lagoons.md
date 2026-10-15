@@ -27,7 +27,7 @@ Now imagine hundreds of them!
 
 {% include image-row.html 
      images="/images/gb-lapwing.jpg, /images/2026-09-26-a-trip-to-musselburgh-lagoons/lapwing-bins.jpeg" 
-     captions="A beautiful lapwing up close [Image credits: Northern Lapwing by Polina Yakovleva, CC BY-NC 4.0 via iNaturalist]., Lapwing flock through my binoculars." 
+     captions="A beautiful lapwing up close [Image credits: <a href="https://www.inaturalist.org/observations/353875436">Northern Lapwing</a> by Polina Yakovleva, CC BY-NC 4.0 via iNaturalist]., Lapwing flock through my binoculars." 
      alt="Lapwings" 
 %}
 
@@ -35,7 +35,7 @@ After identifying the lapwings, as well as many greylag geese, my bird ID skills
 
 {% include image-row.html 
      images="/images/2026-09-26-a-trip-to-musselburgh-lagoons/curlew.jpeg, /images/2026-09-26-a-trip-to-musselburgh-lagoons/curlew-bins.jpeg" 
-     captions="[Image credits: Eurasian Curlew by Manuel Raab, CC-BY NC via iNaturalist]., A bit of a blurry view through the binoculars: curlew spotted!" 
+     captions="[Image credits: <a href="https://www.inaturalist.org/photos/464338212">Eurasian Curlew</a> by Manuel Raab, CC-BY NC via iNaturalist]., A bit of a blurry view through the binoculars: curlew spotted!" 
      alt="Curlews" 
 %}
 

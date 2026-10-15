@@ -16,7 +16,7 @@ On the arrivals board to the UK, there are a host of waders, waterfowl and thrus
 
 <figure>
   <img src="{{ site.baseurl }}/images/2026-09-19-autumn-migration-whos-in-whos-out/redwing.jpg" alt="Redwing">
-  <figcaption>A redwing is relative of the blackbird and a winter visitor to the UK. [Image credits: Redwing by NottsExMiner, CC BY-SA 2.0 via Wikimedia Commons]</figcaption>
+  <figcaption>A redwing is relative of the blackbird and a winter visitor to the UK. [Image credits: <a href="https://commons.wikimedia.org/wiki/File:Redwing_(6859001967).jpg">Redwing</a> by @NottsExMiner, CC BY-SA 2.0 via Wikimedia Commons]</figcaption>
 </figure>
 
 ### 2. Summer migrants
@@ -26,7 +26,7 @@ Exiting the UK are swallows, swifts and cuckoos, heading as far as South Africa.
 
 <figure>
   <img src="{{ site.baseurl }}/images/gb-swift.jpg" alt="Swift">
-  <figcaption>A swift, in flight. [Image credits: Tårnseiler (Apus apus) Common Swift by Marton Berntsen, CC BY-SA 3.0 via Wikimedia Commons]</figcaption>
+  <figcaption>A swift in flight. [Image credits: <a href="https://commons.wikimedia.org/wiki/File:T%C3%A5rnseiler_(Apus_apus)_Common_Swift.jpg">Tårnseiler</a> (Apus apus) Common Swift by Marton Berntsen, CC BY-SA 3.0 via Wikimedia Commons]</figcaption>
 </figure>
 
 If you’re interested in spotting new birds, migration gives a great opportunity to spot species you haven’t seen before. Here’s some tips how…
