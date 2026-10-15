@@ -21,10 +21,11 @@ These flying birds are lapwings, and they are shown up close below. They look es
 Now imagine hundreds of them!
 
 {% include image-row.html 
-     images="/images/gb-lapwing.jpg, /images/2026-09-26-a-trip-to-musselburgh-lagoons/lapwings-bins.jpeg" 
-     captions="A beautiful lapwing up close [Image credits: <a href="https://www.inaturalist.org/observations/353875436">Northern Lapwing</a> by Polina Yakovleva [CC BY-NC 4.0 via iNaturalist]., Lapwing flock through my binoculars." 
-     alt="Lapwings" 
+   images="/images/gb-lapwing.jpg, /images/2026-09-26-a-trip-to-musselburgh-lagoons/lapwings-bins.jpeg" 
+   captions='A beautiful lapwing up close [Image credits: <a href="https://www.inaturalist.org/observations/353875436">Northern Lapwing</a> by Polina Yakovleva [CC BY-NC 4.0 via iNaturalist]., Lapwing flock through my binoculars.' 
+   alt="Lapwings" 
 %}
+
 
 After identifying the lapwings, as well as many greylag geese, my bird ID skills were put to the test by all the similar-but-different waders. Sometimes I’d overhear someone else in the hide saying names of birds, so it helped to have some clues! Another wader that I managed to spot is the curlew, which is actually the icon for this blog. These birds are year-round residents to the lagoon, and are identified by their large size and exceptionally large beaks.
 
