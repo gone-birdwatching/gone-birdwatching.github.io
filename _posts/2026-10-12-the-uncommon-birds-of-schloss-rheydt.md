@@ -52,7 +52,14 @@ The firecrest has a flaming yellow crest, which is tied with its relative, the g
 
 Altogether, we saw and heard 25 species of birds, listed below with ‘S’ for seen, and ‘H’ for ones that Merlin heard. Special thanks to Ilan for his patience and for a musician’s ears which helped to spot these birds!
 
-<table style="width: 100%;"></table>
+<style>
+  table {
+    display: table !important;
+    width: 100% !important;
+    table-layout: fixed !important;
+  }
+</style>
+
 | Species name         | Seen (S) / Heard (H) |
 | -------------------------- | - |
 | Blackbird                  | S |
@@ -80,4 +87,3 @@ Altogether, we saw and heard 25 species of birds, listed below with ‘S’ for 
 | Ruddy shelduck             | H |
 | Short-toed treecreeper     | S |
 | Woodpigeon                 | S |
-{: style="width: 100%; table-layout: fixed;"}
