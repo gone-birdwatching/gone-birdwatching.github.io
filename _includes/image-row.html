@@ -11,12 +11,16 @@
 {% assign cap_list = include.captions | split: ", " %}
 {% assign alt_list = include.alt | split: ", " %}
 
-<div class="image-row" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
+<div class="image-row" style="display: flex; gap: 15px; width: 100%; margin: 2rem 0;">
   {% for img in img_list %}
-    <figure style="flex: 1 1 0px; min-width: 200px; margin: 0; text-align: center;">
-      <img src="{{ img | relative_url }}" alt="{{ alt_list[forloop.index0] | strip }}" style="width: 100%; height: auto; border-radius: 4px; object-fit: cover;" />
+    <figure style="flex: 1; display: flex; flex-direction: column; margin: 0;">
+      <div style="height: 300px; width: 100%;">
+        <img src="{{ img | relative_url }}" 
+             alt="{{ alt_list[forloop.index0] | strip }}" 
+             style="width: 100%; height: 100%; border-radius: 4px; object-fit: cover;" />
+      </div>
       {% if cap_list[forloop.index0] %}
-        <figcaption style="font-size: 0.85rem; color: #666; margin-top: 8px; line-height: 1.4;">
+        <figcaption style="font-size: 0.85rem; color: #666; margin-top: 8px; line-height: 1.4; text-align: center;">
           {{ cap_list[forloop.index0] | strip }}
         </figcaption>
       {% endif %}

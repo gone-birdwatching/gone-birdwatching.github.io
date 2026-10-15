@@ -52,7 +52,7 @@ The firecrest has a flaming yellow crest, which is tied with its relative, the g
 
 Altogether, we saw and heard 25 species of birds, listed below with ‘S’ for seen, and ‘H’ for ones that Merlin heard. Special thanks to Ilan for his patience and for a musician’s ears which helped to spot these birds!
 
-| Species name               | S |
+| Species name &nbsp;        | Seen (S) / Heard (H) |
 | -------------------------- | - |
 | Blackbird                  | S |
 | Blue tit                   | S |
