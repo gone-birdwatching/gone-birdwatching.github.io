@@ -80,3 +80,4 @@ Altogether, we saw and heard 25 species of birds, listed below with ‘S’ for 
 | Ruddy shelduck             | H |
 | Short-toed treecreeper     | S |
 | Woodpigeon                 | S |
+{: style="width: 100%; table-layout: fixed;"}
