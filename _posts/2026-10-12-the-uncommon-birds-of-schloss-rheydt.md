@@ -7,13 +7,26 @@ image: /images/gb-firecrest.jpg
 
 Usually on this blog, I discuss birdwatching around Edinburgh, but this time is a rare exception. Here we travel to West Germany, where I met Ilan and explored the beautiful Schloss Rheydt. With my visit to Germany came the perfect opportunity to discuss some birds that are prevalent overseas but uncommon or absent from the UK.
 
-The moat surrounding Schloss Rheydt is home to many Canada geese, which are often heard honking around the palace!
+
+<figure>
+  <img src="{{ site.baseurl }}/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/schloss-rheydt.jpeg" alt="Schloss Rheydt">
+  <figcaption>The moat surrounding Schloss Rheydt is home to many Canada geese, which are often heard honking around the palace!</figcaption>
+</figure>
 
 Schloss Rheydt is a Renaissance palace, surrounded by a moat and around 20 to 30 wild peacocks, which roam freely around the grounds. In the surrounding area is the castle park and woodland trails. The walk along the trails follows the river Niers, which feeds into the moat. All these environments provide habitat for a wild variety of birds and other wildlife, including much-loved red squirrels, badgers and even wildcats (which are slowly being reintroduced in Scotland!).
 
-A detailed display of songbirds seen in the surrounding park, with resident species on the left and migratory ones on the right!
+<figure>
+  <img src="{{ site.baseurl }}/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/Tafel-SchlossRheydt.jpg" alt="Schloss Rheydt, info board">
+  <figcaption>A detailed display of songbirds seen in the surrounding park, with resident species on the left and migratory ones on the right!</figcaption>
+</figure>
 
 Our first uncommon bird is the short-toed treecreeper, which is a rare visitor to the British Isles. Treecreepers, as the name suggests, are often found creeping up tree trunks. Interestingly, they can only climb up, and not downwards, so if you see a tiny bird creeping up a tree, it could well be a treecreeper.
+
+{% include image-row.html 
+     images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/eur-treecreeper.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/st-treecreeper.jpg" 
+     captions="Eurasian treecreeper, by Igor Dvurekov CC BY-NC via iNaturalist, Short-toed treecreeper, by Jens Søgaard Hansen CC-BY-NC via iNaturalist" 
+     alt="Eurasian treecreeper, Short-toed treecreeper" 
+  %}
 
 Britain’s only treecreeper is the Eurasian treecreeper, pictured left. I learned that a way to spot the difference between these identical-looking birds is down to the white bar across the wing, which is broken is the Eurasian version, and unbroken in the short-toed version! Apparently, the short-toed is largely a misnomer and they do not have shorter toes.
 
