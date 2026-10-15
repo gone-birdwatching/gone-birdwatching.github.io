@@ -24,17 +24,28 @@ Our first uncommon bird is the short-toed treecreeper, which is a rare visitor t
 
 {% include image-row.html 
      images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/eur-treecreeper.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/st-treecreeper.jpg" 
-     captions="Eurasian treecreeper, by Igor Dvurekov CC BY-NC via iNaturalist, Short-toed treecreeper, by Jens Søgaard Hansen CC-BY-NC via iNaturalist" 
-     alt="Eurasian treecreeper, Short-toed treecreeper" 
-  %}
+     captions="Eurasian treecreeper by Igor Dvurekov CC BY-NC via iNaturalist, Short-toed treecreeper by Jens Søgaard Hansen CC-BY-NC via iNaturalist" 
+     alt="A side-by-side of Eurasian treecreeper (left) and short-toed treecreeper (right)" 
+%}
 
 Britain’s only treecreeper is the Eurasian treecreeper, pictured left. I learned that a way to spot the difference between these identical-looking birds is down to the white bar across the wing, which is broken is the Eurasian version, and unbroken in the short-toed version! Apparently, the short-toed is largely a misnomer and they do not have shorter toes.
 
 An easier way to tell these birds apart is by their call: the Eurasian higher-pitched and flowing, the short-toed slower and more regular. Thankfully, we had the Merlin ID app to verify it for us, and I was very pleased to see my first treecreeper!
+{% include image-row.html 
+     images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/lesser.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/middle.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/great.jpg" 
+     captions="Lesser-spotted by @shumik_a, Middle-spotted by @fungiphage, Great-spotted, by @azariaa" 
+     alt="A comparision of three different species of woodpecker" 
+%}
 
 Another bird that we heard was the middle-spotted woodpecker. This woodpecker is absent from the UK entirely, where there are only three species: lesser-spotted, great-spotted and green woodpeckers. Thankfully, middle is not a misnomer, and refers to the size in between the lesser and greater species. Of course, we showcase all three woodpeckers above!
 
 Merlin ID also detected several other British rarities, including a firecrest and a hawfinch, which are both impressive in very different ways. I never would have thought that one area could provide habitat for these two birds.
+
+{% include image-row.html 
+     images="/images/gb-firecrest.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/hawfinch.jpg" 
+     captions="Firecrest by @eidiu (CC BY-NC via iNaturalist), Hawfinch by Vadim Sinuhin (CC BY-NC via iNaturalist)" 
+     alt="Images of firecrest and hawfinch" 
+%}
 
 The firecrest has a flaming yellow crest, which is tied with its relative, the goldcrest, as the smallest British bird. On the other hand, the hawfinch is the largest UK finch. In a way, these birds are two extremes of UK birds, with the energetic goldcrest and its needle-like beak compared with the far weightier, bigger beaked hawfinch.
 
