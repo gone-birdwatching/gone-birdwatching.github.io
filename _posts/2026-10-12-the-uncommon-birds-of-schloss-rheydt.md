@@ -23,7 +23,7 @@ Schloss Rheydt is a Renaissance palace, surrounded by a moat and around 20 to 30
 Our first uncommon bird is the short-toed treecreeper, which is a rare visitor to the British Isles. Treecreepers, as the name suggests, are often found creeping up tree trunks. Interestingly, they can only climb up, and not downwards, so if you see a tiny bird creeping up a tree, it could well be a treecreeper.
 
 {% include image-row.html 
-     images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/eur-treecreeper.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/st-treecreeper.jpg" 
+     images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/eur-treecreeper.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/st-treecreeper.jpeg" 
      captions="Eurasian treecreeper by Igor Dvurekov CC BY-NC via iNaturalist, Short-toed treecreeper by Jens Søgaard Hansen CC-BY-NC via iNaturalist" 
      alt="A side-by-side of Eurasian treecreeper (left) and short-toed treecreeper (right)" 
 %}
@@ -33,7 +33,7 @@ Britain’s only treecreeper is the Eurasian treecreeper, pictured left. I learn
 An easier way to tell these birds apart is by their call: the Eurasian higher-pitched and flowing, the short-toed slower and more regular. Thankfully, we had the Merlin ID app to verify it for us, and I was very pleased to see my first treecreeper!
 {% include image-row.html 
      images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/lesser.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/middle.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/great.jpg" 
-     captions="Lesser-spotted by @shumik_a, Middle-spotted by @fungiphage, Great-spotted, by @azariaa" 
+     captions="Lesser-spotted by @shumik_a, Middle-spotted by @fungiphage, Great-spotted by @azariaa" 
      alt="A comparision of three different species of woodpecker" 
 %}
 
