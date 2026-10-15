@@ -24,7 +24,7 @@ Our first uncommon bird is the short-toed treecreeper, which is a rare visitor t
 
 {% include image-row.html 
      images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/eur-treecreeper.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/st-treecreeper.jpeg" 
-     captions="<a href="https://www.inaturalist.org/observations/72705899">Eurasian treecreeper</a> by Igor Dvurekov CC BY-NC via iNaturalist, <a href="https://www.inaturalist.org/photos/362010892">Short-toed treecreeper</a> by Jens Søgaard Hansen CC-BY-NC via iNaturalist" 
+     captions='<a href="https://www.inaturalist.org/observations/72705899">Eurasian treecreeper</a> by Igor Dvurekov CC BY-NC via iNaturalist, <a href="https://www.inaturalist.org/photos/362010892">Short-toed treecreeper</a> by Jens Søgaard Hansen CC-BY-NC via iNaturalist' 
      alt="A side-by-side of Eurasian treecreeper (left) and short-toed treecreeper (right)" 
 %}
 
@@ -33,7 +33,7 @@ Britain’s only treecreeper is the Eurasian treecreeper, pictured left. I learn
 An easier way to tell these birds apart is by their call: the Eurasian higher-pitched and flowing, the short-toed slower and more regular. Thankfully, we had the Merlin ID app to verify it for us, and I was very pleased to see my first treecreeper!
 {% include image-row.html 
      images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/lesser.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/middle.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/great.jpg" 
-     captions="<a href="https://www.inaturalist.org/photos/748565076">Lesser-spotted</a> by @shumik_a, <a href="https://www.inaturalist.org/photos/745908294">Middle-spotted</a> by @fungiphage, <a href="https://www.inaturalist.org/photos/745908294">Great-spotted</a> by @azariaa" 
+     captions='<a href="https://www.inaturalist.org/photos/748565076">Lesser-spotted</a> by @shumik_a, <a href="https://www.inaturalist.org/photos/745908294">Middle-spotted</a> by @fungiphage, <a href="https://www.inaturalist.org/photos/745908294">Great-spotted</a> by @azariaa'
      alt="A comparision of three different species of woodpecker" 
 %}
 
@@ -43,7 +43,7 @@ Merlin ID also detected several other British rarities, including a firecrest an
 
 {% include image-row.html 
      images="/images/gb-firecrest.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/hawfinch.jpg" 
-     captions="<a href="https://www.inaturalist.org/photos/731640588">Firecrest</a> by @eidiu (CC BY-NC via iNaturalist), <a href="https://www.inaturalist.org/photos/374151363">Hawfinch</a> by @vadimsinuhin59 (CC BY-NC via iNaturalist)" 
+     captions='<a href="https://www.inaturalist.org/photos/731640588">Firecrest</a> by @eidiu (CC BY-NC via iNaturalist), <a href="https://www.inaturalist.org/photos/374151363">Hawfinch</a> by @vadimsinuhin59 (CC BY-NC via iNaturalist)'
      alt="Images of firecrest and hawfinch" 
 %}
 
