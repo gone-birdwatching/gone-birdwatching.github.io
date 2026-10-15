@@ -47,6 +47,35 @@ Merlin ID also detected several other British rarities, including a firecrest an
      alt="Images of firecrest and hawfinch" 
 %}
 
+
 The firecrest has a flaming yellow crest, which is tied with its relative, the goldcrest, as the smallest British bird. On the other hand, the hawfinch is the largest UK finch. In a way, these birds are two extremes of UK birds, with the energetic goldcrest and its needle-like beak compared with the far weightier, bigger beaked hawfinch.
 
 Altogether, we saw and heard 25 species of birds, listed below with ‘S’ for seen, and ‘H’ for ones that Merlin heard. Special thanks to Ilan for his patience and for a musician’s ears which helped to spot these birds!
+
+| Species name               | S |
+| -------------------------- | - |
+| Blackbird                  | S |
+| Blue tit                   | S |
+| Canada goose               | S |
+| Carrion crow               | S |
+| Chaffinch                  | H |
+| Coot                       | S |
+| Cormorant                  | S |
+| Eurasian nuthatch          | H |
+| Firecrest                  | H |
+| Great tit                  | S |
+| Greater-spotted woodpecker | H |
+| Grey heron                 | S |
+| Grey wagtail               | H |
+| Greylag goose              | S |
+| Hawfinch                   | H |
+| Indian peacock             | S |
+| Jackdaw                    | S |
+| Kingfisher                 | H |
+| Magpie                     | S |
+| Mallard                    | S |
+| Moorhen                    | S |
+| Robin                      | S |
+| Ruddy shelduck             | H |
+| Short-toed treecreeper     | S |
+| Woodpigeon                 | S |
