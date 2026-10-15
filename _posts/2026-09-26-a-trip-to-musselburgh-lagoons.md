@@ -10,24 +10,19 @@ On Saturday, I took a day trip just outside of Edinburgh to visit one of the bes
 The area features a bird nature reserve, formally known as Levenhall Links. At first, it looks like a small woodland, where the lagoons are only revealed once you enter one of the outdoor bird hides, of which there are three or four. On a sunny day, it is beautiful.
 
 <figure>
-  <img src="{{ site.baseurl }}/images/2026-09-26-a-trip-to-musselburgh-lagoons/levenhall-sign.jpeg" alt="Schloss Rheydt, info board">
-  <figcaption>On entering the nature reserve.</figcaption>
-</figure>
-
-Below is a picture of the lagoon. If you zoom in, you might just be able to make out a flock of birds flying over. It doesn’t look like much, so you’ll just have to believe me, there were hundreds of birds. Some on the ground, others flying in a swirling murmuration. My first thought was that I need to figure out what these birds are!
-
-<figure>
   <img src="{{ site.baseurl }}/images/2026-09-26-a-trip-to-musselburgh-lagoons/lapwing-flock.jpeg" alt="Schloss Rheydt, info board">
   <figcaption>This was from one of the bird hides. What a view!</figcaption>
 </figure>
+
+Above is a picture of the lagoon. If you zoom in, you might just be able to make out a flock of birds flying over. It doesn’t look like much, so you’ll just have to believe me, there were hundreds of birds. Some on the ground, others flying in a swirling murmuration. My first thought was that I need to figure out what these birds are!
 
 These flying birds are lapwings, and they are shown up close below. They look especially pretty, and have elegant crests and green iridescent feathers. A fun fact about them is that they have really bizarre calls, sounding something like a <a href="https://www.rspb.org.uk/birds-and-wildlife/lapwing">metal detector</a>. (Click the link if you fancy a listen.)
 
 Now imagine hundreds of them!
 
 {% include image-row.html 
-     images="/images/gb-lapwing.jpg, /images/2026-09-26-a-trip-to-musselburgh-lagoons/lapwing-bins.jpeg" 
-     captions="A beautiful lapwing up close [Image credits: <a href="https://www.inaturalist.org/observations/353875436">Northern Lapwing</a> by Polina Yakovleva, CC BY-NC 4.0 via iNaturalist]., Lapwing flock through my binoculars." 
+     images="/images/gb-lapwing.jpg, /images/2026-09-26-a-trip-to-musselburgh-lagoons/lapwings-bins.jpeg" 
+     captions="A beautiful lapwing up close [Image credits: <a href="https://www.inaturalist.org/observations/353875436">Northern Lapwing</a> by Polina Yakovleva [CC BY-NC 4.0 via iNaturalist]., Lapwing flock through my binoculars." 
      alt="Lapwings" 
 %}
 
