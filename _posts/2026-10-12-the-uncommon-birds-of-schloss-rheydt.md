@@ -60,8 +60,8 @@ Altogether, we saw and heard 25 species of birds, listed below with ‘S’ for 
   }
 </style>
 
-| Species name         | Seen (S) / Heard (H) |
-| -------------------------- | - |
+| Species name               | Seen (S) / Heard (H) |
+| -------------------------- | :---: |
 | Blackbird                  | S |
 | Blue tit                   | S |
 | Canada goose               | S |
