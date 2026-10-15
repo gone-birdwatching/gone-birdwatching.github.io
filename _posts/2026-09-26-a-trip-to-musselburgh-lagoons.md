@@ -30,7 +30,7 @@ After identifying the lapwings, as well as many greylag geese, my bird ID skills
 
 {% include image-row.html 
      images="/images/2026-09-26-a-trip-to-musselburgh-lagoons/curlew.jpeg, /images/2026-09-26-a-trip-to-musselburgh-lagoons/curlew-bins.jpeg" 
-     captions="[Image credits: <a href="https://www.inaturalist.org/photos/464338212">Eurasian Curlew</a> by Manuel Raab, CC-BY NC via iNaturalist]., A bit of a blurry view through the binoculars: curlew spotted!" 
+     captions='[Image credits: <a href="https://www.inaturalist.org/photos/464338212">Eurasian Curlew</a> by Manuel Raab, CC-BY NC via iNaturalist]., A bit of a blurry view through the binoculars: curlew spotted!'
      alt="Curlews" 
 %}
 
