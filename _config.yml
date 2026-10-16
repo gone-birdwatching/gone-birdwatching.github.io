@@ -12,6 +12,8 @@ navigation:
     url: /
   - title: About
     url: /about/
+  - title: Attribution
+    url: /attribution/
 
 plugins:
   - jekyll-paginate

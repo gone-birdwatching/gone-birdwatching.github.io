@@ -4,7 +4,12 @@ layout: default
 
 {% include site-nav.html %}
 {% include header.html %}
-{% if page.date %} <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> {% endif %}
+{% if page.date %} 
+  <time class="post-custom-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    {{ page.date | date: "%b %-d, %Y" }}
+  </time> 
+{% endif %}
+
 
 <article class="post" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting" >
 

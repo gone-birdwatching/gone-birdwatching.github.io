@@ -24,7 +24,7 @@ Our first uncommon bird is the short-toed treecreeper, which is a rare visitor t
 
 {% include image-row.html 
      images="/images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/eur-treecreeper.jpg, /images/2026-10-12-the-uncommon-birds-of-schloss-rheydt/st-treecreeper.jpeg" 
-     captions='<a href="https://www.inaturalist.org/observations/72705899">Eurasian treecreeper</a> by Igor Dvurekov CC BY-NC via iNaturalist, <a href="https://www.inaturalist.org/photos/362010892">Short-toed treecreeper</a> by Jens Søgaard Hansen CC-BY-NC via iNaturalist' 
+     captions='<a href="https://www.inaturalist.org/photos/250057828">Eurasian treecreeper</a> by Tom Belaj CC BY-NC via iNaturalist, <a href="https://www.inaturalist.org/photos/362010892">Short-toed treecreeper</a> by Jens Søgaard Hansen CC-BY-NC via iNaturalist' 
      alt="A side-by-side of Eurasian treecreeper (left) and short-toed treecreeper (right)" 
 %}
 
