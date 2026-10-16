@@ -1,0 +1,119 @@
+[33m94dfa60[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fixing homepage and footer
+[33m0c64fce[m Fixing homepage header
+[33m5b7990f[m Global fix for vertical whitespace issue
+[33m05b2d2f[m Adjusting whitespace on homepage
+[33me213999[m Shifting subtitle further upwards
+[33m271bfb1[m Moving site subtitle upwards
+[33m070f512[m Adjusting position of site description
+[33m0643656[m Fixing broken typography code
+[33m2857967[m Tweaking subtitle position
+[33m0346714[m Subtitle fixes
+[33m9c707c8[m Adding subtitle
+[33mb80ae28[m Fixing date formatting
+[33m49e2670[m Further layout and style fixes
+[33m35b17f8[m Layout fixes
+[33m8ced7e9[m Final tweaks to table markdown
+[33me47f41e[m Fixing table
+[33m071244b[m Tweaking layout
+[33m4eecb9f[m Fixed broken styles
+[33m5fd2692[m Fixed broken styles
+[33m238b299[m Fixed error in parsing image-row
+[33mbe330a7[m Fixing header vertical space and  broken styling
+[33m8f4db5c[m Added links to attributions
+[33m371e46f[m Adding images to "A Trip to Musselburgh Lagoons"
+[33mb2ed0bf[m Fixed markdown table and added
+[33m5cb88f2[m Fixing minor layout errors
+[33m1b94f79[m Corrected folder name typo and added table in md
+[33mbbfae66[m More images
+[33m380ff59[m Attempting to implement image-row
+[33mfbfab15[m Minor changes
+[33me0907b7[m Minor fixes
+[33mea0f414[m Added all images, and updated first posts
+[33m399b152[m Add image-row.html for responsive image display
+[33m92cbd8f[m Update core.scss
+[33m9f8178e[m Change font-family from Bitter to Crimson Text
+[33m5d19db7[m Add styles for post title and header
+[33m0556c90[m Remove duplicate header inclusion in post layout
+[33m601c1ec[m Adjust margins and paddings in core styles
+[33mfc12a3a[m Add margin styles to site header and post
+[33me296b5e[m Fix header inclusion in post layout
+[33maf6976d[m Refactor post layout to include header and remove duplicate nav
+[33m689af04[m Remove header inclusion from post.html layout
+[33m2387dd2[m Move header include above site-nav include
+[33m24fde2a[m Add site navigation include to post layout
+[33mdd7b45c[m Fix formatting in figcaption styles
+[33ma4e8aac[m Add figcaption styles for improved presentation
+[33mee930a6[m Add image of dipper on the Water of Leith
+[33mac20793[m Add image file types to .gitignore
+[33m9d72804[m Correct title casing for Musselburgh Lagoons
+[33m3963894[m Fix URL formatting in _config.yml
+[33m019167a[m Change page title to 'Gone Birdwatching'
+[33m794d9d4[m Implement pagination for posts in index.html
+[33mff6e598[m Add pagination configuration to _config.yml
+[33m51e5948[m Update credits.md with image attributions
+[33m92e143b[m Correct spelling of Scottish name for dippers
+[33m9a2ff7f[m Refactor styles and update HTML structure
+[33m5d4e97a[m Revise styles for main container and post card layout
+[33m6a56ada[m Update styles for blog layout and responsiveness
+[33m06cb71d[m Add image reference to dippers blog post
+[33m533bf6a[m Add image to autumn migration blog post
+[33m09f175b[m Update image reference in blog post
+[33m7593989[m Update image path in blog post about Musselburgh lagoons
+[33me55e4d6[m Add image reference to Musselburgh lagoons post
+[33m0199fcb[m Add image reference to Schloss Rheydt blog post
+[33m45aeeca[m Rename gb-swift.jpg to images/gb-swift.jpg
+[33m291a94f[m Rename gb-lapwing.jpg to images/gb-lapwing.jpg
+[33m50caee6[m Rename gb-firecrest.jpg to images/gb-firecrest.jpg
+[33m68795b1[m Rename gb-dipper.jpg to images/gb-dipper.jpg
+[33m805aca4[m Add files via upload
+[33m6cca210[m Revamp index.html layout and styles for posts
+[33m9038ebb[m Refactor post display structure in index.html
+[33me025f9d[m Create credits.md for image attribution
+[33m7281e66[m Change page title to 'Gone Birdwatching'
+[33m93107a6[m Fix closing nav tag in site-nav.html
+[33m8890379[m Remove site title link from header.html
+[33md3008ed[m Include header in page layout
+[33ma7e72c6[m Remove header inclusion in page layout
+[33m97f6f50[m Add position attribute to about.md
+[33me73a3c4[m Add position attribute to index.html front matter
+[33mc2cbd3f[m Fix indentation in site navigation HTML
+[33m891b8a7[m Add navbar_title to about.md
+[33maeddbfc[m Add navbar_title to index.html
+[33m8d124d7[m Remove navigation bar from index.html
+[33m1c77eb7[m Revise navigation bar and enhance layout
+[33maf14c33[m Rename 2026-09-19-autumn-migration-i-whos-in-whos-out to 2026-09-19-autumn-migration-i-whos-in-whos-out.md
+[33m333fa1a[m Rename 2026-09-26-a-trip-to-musselburgh-lagoons to 2026-09-26-a-trip-to-musselburgh-lagoons.md
+[33m0ca4e76[m Rename 2026-10-12-the-uncommon-birds-of-schloss-rheydt to 2026-10-12-the-uncommon-birds-of-schloss-rheydt.md
+[33m1a9b3a0[m Add blog post about uncommon birds at Schloss Rheydt
+[33m9566a3d[m Create blog post about Musselburgh lagoons trip
+[33m4f78d73[m Add front matter to autumn migration blog post
+[33m9ffbec8[m Refactor header and navigation in index.html
+[33mb5b6b5a[m Add article on autumn bird migration
+[33m77ffc79[m Refactor header layout and styles in index.html
+[33me4e24e6[m Refactor index.html for improved styling and structure
+[33m3ace788[m Change layout from 'default' to 'page'
+[33mc67bcfe[m Refactor index.html structure and classes
+[33m19b7fb4[m Refactor index.md to include recent posts section
+[33mf5bc955[m Rename index.html to index.md
+[33mcfb8222[m Refactor index.html structure and styling
+[33m4833721[m Refactor HTML comments and styles in index.html
+[33me7ef8ad[m Add Google Fonts import to core.scss
+[33m3302772[m Revise About page title and content
+[33me9b47f7[m Enhance header and post styling in index.html
+[33m6b75ff5[m Update blog title, description, and URL
+[33m48472d7[m Refactor HTML structure for blog posts
+[33m1ef42db[m Add About Me page with introductory content
+[33mbd261d7[m Refactor post article layout and styles
+[33md4b0045[m Add mixin for unstyled list in core.scss
+[33m2a617f4[m Add mixin for punctuated lists in SCSS
+[33mfaed44d[m Add mixins for unstyled links and clearfix
+[33m2636729[m Add mixin for unstyled links
+[33m49f44ac[m Update _config.yml
+[33mc87fedd[m Update index.html
+[33m85479ef[m Add files via upload
+[33mca67d03[m Update site URL in configuration file
+[33mc94de4d[m Update blog title and URL in configuration
+[33md25ccd1[m Add index.html for displaying blog posts
+[33mf832c96[m Add blog post about dippers
+[33m2570b21[m Add initial Jekyll configuration settings
+[33m2538001[m Initial commit
