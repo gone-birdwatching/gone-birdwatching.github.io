@@ -43,7 +43,7 @@ To receive emails whenever I post a new blog, feel free to subscribe to my RSS f
   outline: none !important;
 }
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input {
-  color: #333333 !important;
+  color: #000000 !important;
   font-family: "Montserrat" !important;
   font-size: 14px;
   font-weight: 400;
@@ -51,16 +51,16 @@ To receive emails whenever I post a new blog, feel free to subscribe to my RSS f
   text-align: center;
 }
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::placeholder {
-  color: #333333 !important;
+  color: #000000 !important;
   opacity: 1 !important;
 }
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input:-ms-input-placeholder {
-  color: #333333 !important;
+  color: #000000 !important;
 }
 
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::-ms-input-placeholder {
-  color: #333333 !important;
+  color: #000000 !important;
 }
 .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button {
   margin-top: 10px !important;
@@ -98,5 +98,5 @@ To receive emails whenever I post a new blog, feel free to subscribe to my RSS f
 
   </style>
   <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
-    <form data-v-f93f6730="" action="https://api.follow.it/subscription-form/VlY1QkUrNkNPNHlyaUNzcDZnNU9QZFJ6VjkvYmdqSUw2Y2pLUTJta1Q5NHNnSUpJaTh2WWZFZTVBWVRWKzNCZVBJZkJLQlJYL29YMjNsMU1MenQrSjg4WjJHOUE1dHhRNDNBcEtkTU1hNW5vbUpRM1VDeCtvWDFySytKZDJodkx8YnovNVJxZWVRUFJ1QlFVR2l2NVdVajducnI4MnNUbXFnd3JTMjBwektjWT0=/21" method="post"><div data-v-f93f6730="" class="form-preview" style="background-color: rgb(255, 255, 255); position: relative;"><div data-v-f93f6730="" class="preview-heading"><h5 data-v-f93f6730="" style="font-family: inherit; font-weight: bold; color: rgb(51, 51, 51); font-size: 16px; text-align: center; text-transform: none !important;">Get new posts by email:</h5></div><div data-v-f93f6730="" class="preview-input-field"><input data-v-f93f6730="" type="email" name="email" required="" placeholder="Enter your email" spellcheck="false" style="font-family: Arial; font-weight: normal; color: rgb(51, 51, 51); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); text-transform: none !important;"></div><div data-v-f93f6730="" class="preview-submit-button"><button data-v-f93f6730="" type="submit" style="font-family: Arial; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(51, 51, 51); text-transform: none !important;">Subscribe</button></div></div></form><a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17px"/></a>
+    <form data-v-f93f6730="" action="https://api.follow.it/subscription-form/NFIwN2ovR3Q5YmkxMGtVUlVTUWhaMmFFeVJQck9XYlNkUDdlNGlkSmdJRFBqV0Y2SkpsNm1yeFJQRmNRbWUzRm9uYXZ2VGcrYzRhd2IrT3h5ajVVbVg3N01WK3BLb3FxeWlLYkdNNEFhL0RtY3dKRFZrRVRNa1R4YmJORjBQaGx8cW9QNVVoM1FxOHlPZS9ISHF0ZmhqamIvNE5rd1AvYUFLaWRSUWhoZy9wTT0=/8" method="post"><div data-v-f93f6730="" class="form-preview" style="background-color: rgb(255, 255, 255); position: relative;"><div data-v-f93f6730="" class="preview-heading"><h5 data-v-f93f6730="" style="font-family: &quot;Times New Roman&quot;; font-weight: bold; color: rgb(51, 51, 51); font-size: 16px; text-align: center; text-transform: none !important;">Get new posts by email:</h5></div><div data-v-f93f6730="" class="preview-input-field"><input data-v-f93f6730="" type="email" name="email" required="" placeholder="Enter your email" spellcheck="false" style="font-family: Arial; font-weight: normal; color: rgb(0, 0, 0); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); text-transform: none !important;"></div><div data-v-f93f6730="" class="preview-submit-button"><button data-v-f93f6730="" type="submit" style="font-family: inherit; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(51, 51, 51); text-transform: none !important;">Subscribe</button></div></div></form><a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17px"/></a>
   </div>
