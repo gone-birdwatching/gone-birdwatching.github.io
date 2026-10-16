@@ -3,7 +3,7 @@ layout: page
 title: "Attribution"
 permalink: /attribution/
 navbar_title: Attribution
-position: 3
+position: 4
 ---
 
 Here is the attribution for every image on my homepage (that wasn’t created by me). 
