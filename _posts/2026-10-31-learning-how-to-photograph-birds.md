@@ -2,7 +2,7 @@
 layout: post
 title: "Learning how to photograph birds"
 date: 2026-10-31
-image: /images/gb-swans.jpeg
+image: /images/gb-canadagoose.jpeg
 ---
 
 Today was my first time being out and about with a camera and photographing birds.
