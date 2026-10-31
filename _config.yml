@@ -20,5 +20,5 @@ navigation:
 plugins:
   - jekyll-paginate
     
-paginate: 5
+paginate: 4
 paginate_path: "/page:num/"
