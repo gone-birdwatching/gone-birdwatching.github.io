@@ -6,3 +6,4 @@ image: /images/gb-swans.jpeg
 ---
 
 Today was my first time being out and about with a camera and photographing birds.
+
