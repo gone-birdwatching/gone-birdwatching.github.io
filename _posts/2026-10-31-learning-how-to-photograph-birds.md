@@ -19,16 +19,11 @@ In the lack of kingfishers, and other birds, I decided instead to walk around an
 
 I then ventured out to Inverleith park, where I knew there would be plenty of ducks and a family of swans for me to photograph. There have been a pair of mute swans on the lake there, with a new arrival since March 2025. Now, the young cygnet has grown into a full adult, and during my time in Edinburgh, I've been watching it grow up. I visit the park at least once a month, and I really enjoyed getting my first few shots with the swan family. This swan is the cover photo for this blog post, and the swan family is shown below.
 
-<figure>
-  <img src="{{ site.baseurl }}/images/2026-10-31-learning-how-to-photograph-birds/ducks-splashing.jpeg" alt="Swan family">
-  <figcaption>The swans, swimming together in a neatly lined-up row.</figcaption>
-</figure>
 {% include image-row.html 
      images="/images/2026-10-31-learning-how-to-photograph-birds/swan-row.jpg, /images/gb-swan-3.jpg" 
-     captions='The swans, swimming together in a neatly lined-up row., The youngest member of the family.' 
+     captions='The swans swimming together in a neatly lined-up row., The youngest member of the family.' 
      alt="Swan images" 
 %}
-
 
 I also experimenting with some action shots, like with these mallards! In birdwatching, there is something called "giss". It stands for *general impression of size and shape*, and distills the unique characteristics of a bird. It includes both appearance and behaviour; it could be the round cheerfulness of a robin, or the sleek and skittish kingfisher. 
 
