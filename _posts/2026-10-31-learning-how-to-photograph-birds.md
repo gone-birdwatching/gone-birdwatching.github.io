@@ -24,10 +24,14 @@ I then ventured out to Inverleith park, where I knew there would be plenty of du
 Fun fact: to tell apart male and female swans, look at the knob above their beaks. Males generally have larger knobs, as shown in the third photograph.
 
 {% include image-row.html 
-     images="/images/2026-10-31-learning-how-to-photograph-birds/swan-row.jpg, /images/gb-swan-3.jpg, /images/2026-10-31-learning-how-to-photograph-birds/swans-2.jpg" 
-     captions='The swans swimming together in a neatly lined-up row., The youngest member of the family., Male and female swans.' 
+     images="/images/2026-10-31-learning-how-to-photograph-birds/swan-row.jpg, /images/gb-swan-3.jpg" 
+     captions='The swans swimming together in a neatly lined-up row., The youngest member of the family.' 
      alt="Swan images" 
 %}
+<figure>
+  <img src="{{ site.baseurl }}/images/2026-10-31-learning-how-to-photograph-birds/swans-2.jpg" alt="Swans">
+  <figcaption>Male and female swans.</figcaption>
+</figure>
 
 I also experimenting with some action shots, like with these mallards! In birdwatching, there is something called "giss". It stands for *general impression of size and shape*, and distills the characteristics of a bird. It includes both appearance and behaviour; it could be the round cheerfulness of a robin, or the sleek and skittish kingfisher. 
 
