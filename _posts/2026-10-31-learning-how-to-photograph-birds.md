@@ -11,8 +11,8 @@ Birds are often small, unpredictable targets, and after sitting in the mud for h
 One thing I am learning about wildlife photography is that in order to get good shots, you have to be in the right place at the right time. So there I was, 9am in the morning, positioned along riverbank on the water of Leith and waiting for a kingfisher. I saw a shock of vibrant blue feathers flying downstream, and then, once I had got myself into position with my camera, no kingfishers at all. The ground was wet from the rain the night before, and I wasn't sure whether to squat or sit. Even though I didn't quite know what I was doing, the river was peaceful and alive with birdsong, and I was glad to be there.
 
 <figure>
-  <img src="{{ site.baseurl }}/images/2026-10-31-learning-how-to-photograph-birds/kingfisher-spot.jpg" alt="Water of Leith">
-  <figcaption>The riverbank along the Water of Leith, all dressed up for Halloween. I was here, waiting for a kingfisher to land on one of the nearby branches. </figcaption>
+  <img src="{{ site.baseurl }}/images/2026-10-31-learning-how-to-photograph-birds/bridge.jpg" alt="Water of Leith">
+  <figcaption>The riverbank along the Water of Leith, all dressed up for Halloween. There is where I saw the kingfisher, flying under the bridge.</figcaption>
 </figure>
 
 In the lack of kingfishers, and other birds, I decided instead to walk around and take photos instead. The morning light was reflecting the leaves in the river, and I was playing with the different settings on the camera to best capture the autumn colours. 
