@@ -24,7 +24,7 @@ I then ventured out to Inverleith park, where I knew there would be plenty of du
 Fun fact: to tell apart male and female swans, look at the knob above their beaks. Males generally have larger knobs, as shown in the third photograph.
 
 {% include image-row.html 
-     images="/images/2026-10-31-learning-how-to-photograph-birds/swan-row.jpg, /images/gb-swan-3.jpg", /images/2026-10-31-learning-how-to-photograph-birds/swans-2.jpg" 
+     images="/images/2026-10-31-learning-how-to-photograph-birds/swan-row.jpg, /images/gb-swan-3.jpg, /images/2026-10-31-learning-how-to-photograph-birds/swans-2.jpg" 
      captions='The swans swimming together in a neatly lined-up row., The youngest member of the family., Male and female swans.' 
      alt="Swan images" 
 %}
