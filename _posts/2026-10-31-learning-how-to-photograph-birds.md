@@ -25,11 +25,11 @@ I then ventured out to Inverleith park, where I knew there would be plenty of du
      alt="Swan images" 
 %}
 
-I also experimenting with some action shots, like with these mallards! In birdwatching, there is something called "giss". It stands for *general impression of size and shape*, and distills the unique characteristics of a bird. It includes both appearance and behaviour; it could be the round cheerfulness of a robin, or the sleek and skittish kingfisher. 
+I also experimenting with some action shots, like with these mallards! In birdwatching, there is something called "giss". It stands for *general impression of size and shape*, and distills the characteristics of a bird. It includes both appearance and behaviour; it could be the round cheerfulness of a robin, or the sleek and skittish kingfisher. 
 
 <figure>
   <img src="{{ site.baseurl }}/images/2026-10-31-learning-how-to-photograph-birds/ducks-splashing.jpeg" alt="Mallards in lake">
   <figcaption>The second after the ducks had a splash!</figcaption>
 </figure>
 
-This birdwatching trip had got me thinking about a new goal I wanted to achieve. I had set out, trying to capture an elusive kingfisher, and had come out with something very different in trying to capture the playfulness of the ducks. Perhaps, photographing birds is not always about finding the rarest species, but about connecting people to the joy of birds.
+This birdwatching trip had got me thinking about a new goal I wanted to achieve. I had set out, trying to capture an elusive kingfisher, and had come out with something very different in trying to capture the playfulness of the ducks. Perhaps, photographing birds is not always about finding the rarest species, but about capturing their unique and distinctive personalities.
